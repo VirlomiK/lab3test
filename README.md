@@ -13,7 +13,7 @@ To get the latest release of the script and unit tests, check the releases page.
 
 To get it as a zip file from the terminal, use: (Note: this is only as recent as we've remembered to update this file)
 
-wget https://github.com/ECE1T6/parsertest/archive/v1.0-alpha.zip
+wget https://github.com/ECE1T6/parsertest/archive/lab3test-v1.0-alpha.zip
 
 unzip v1.0-alpha
 or, if git is installed, do either this:
