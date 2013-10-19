@@ -1,0 +1,26 @@
+maxVal 0 1
+maxVal 6 7
+insertR R0 100.1 0 1
+insertR R1 110.001 0 2
+insertR R2 120 0 3
+insertR R3 130 0 4
+insertR R4 140 0 5
+insertR R5 150 0 6
+insertR R6 160 1 7
+insertR R7 170 1 5
+insertR R8 180 4 3
+insertR R9 190 2 4
+printR R8
+printR R9
+printR all
+printNode 1
+printNode all
+modifyR R3 2.5
+printR R3
+maxVal 3 4
+printNode all
+insertR bigres 1000 2 3
+insertR smallres 0.05 2 4
+printR all
+deleteR all
+printR all
